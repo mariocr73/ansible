@@ -1,2 +1,2 @@
-# Openstack-ansible
-Espacio de investigación de openstack ansible
+# ansible
+En este espacio realizaremos despligue de funcionalidades con ansible.
