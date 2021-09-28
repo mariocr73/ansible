@@ -1,1 +1,0 @@
-#Laboratorio para reunir datos de un hosts y crear tareas de los datos recogidos
